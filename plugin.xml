@@ -29,7 +29,7 @@
     <js-module src="www/phonegap/plugin/facebookConnectPlugin/facebookConnectPlugin.js" 
     		  name="FacebookConnectPlugin" 
     		target="phonegap/plugin/facebookConnectPlugin/facebookConnectPlugin.js">
-        <clobbers target="window.facebookConnectPlugin" />
+        <clobbers target="facebookConnectPlugin" />
     </js-module>
     
     <!-- android -->
